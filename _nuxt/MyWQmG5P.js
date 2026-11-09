@@ -1,0 +1,1 @@
+import{$o as r,Xo as t,os as s,ts as n}from"./oiGN5XoV.js";function o(o,a,e){if(!s(e))return!1;var i=typeof a;return!!("number"==i?t(e)&&n(a,e.length):"string"==i&&a in e)&&r(e[a],o)}export{o as t};

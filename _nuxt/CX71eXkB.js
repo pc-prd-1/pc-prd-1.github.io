@@ -1,0 +1,1 @@
+import{go as o,ho as r}from"./oiGN5XoV.js";import{t as n}from"./_IflTnYA.js";var t=null;function a(){return t??=function(){const{token_logo_url:t}=o(),a=o=>`${t}chain/${o}.png`;return{logoUrl:a,colorOf:o=>r(o)||n(a(o))}}(),t}export{a as t};
